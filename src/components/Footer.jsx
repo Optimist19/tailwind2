@@ -1,4 +1,8 @@
 import { IoIosCall } from "react-icons/io";
+import { FaLocationDot } from "react-icons/fa6";
+import { FaEnvelope } from "react-icons/fa";
+
+
 
 function Footer() {
   return (
@@ -69,7 +73,7 @@ function Footer() {
               <div className="flex items-center">
                 <div>
                   <div className="w-[80px] h-[80px] bg-blue-700 rounded-full flex justify-center items-center cursor-pointer hover:bg-yellow-600">
-                    <IoIosCall className="text-w" />
+                    <FaLocationDot className="text-w" />
                   </div>
                 </div>
 
@@ -85,7 +89,7 @@ function Footer() {
 
                 <div>
                   <div className="w-[80px] h-[80px] bg-blue-700 rounded-full flex justify-center items-center cursor-pointer hover:bg-yellow-600">
-                    <IoIosCall className="text-w" />
+                    <FaEnvelope className="text-w" />
                   </div>
                 </div>
               </div>
