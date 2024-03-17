@@ -45,7 +45,7 @@ function Footer() {
 
           <div>
             <div className="w-[80px] h-[80px] bg-blue-700 rounded-full flex justify-center items-center cursor-pointer hover:bg-yellow-600">
-              <IoIosCall className=" text-white" />
+              <FaEnvelope className=" text-white" />
             </div>
           </div>
 
