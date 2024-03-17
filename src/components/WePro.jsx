@@ -5,7 +5,7 @@ function WePro() {
     <section className="w-full bg-[#d1e3ff] py-12">
       <div className="flex flex-row-reverse items-center sm:h-screen">
         <div className="px-3 flex flex-col gap-5">
-          <h4 className="text-3xl font-bold">
+          <h4 className="text-3xl font-bold mx-auto">
             WE PROVIDE PROFESSIONAL HOME SERVICES.
           </h4>
           <p>

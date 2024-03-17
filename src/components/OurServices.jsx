@@ -71,7 +71,7 @@ function OurServices() {
       <div>
         <div>
           <div>
-            <h4 className="text-center my-12">WHAT OUR CLIENTS SAY</h4>
+            <h4 className="text-center my-12 text-2xl font-bold">WHAT OUR CLIENTS SAY</h4>
           </div>
           <div className="sm:w-[60%] sm:flex sm:mx-auto">
             <Swiper

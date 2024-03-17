@@ -5,7 +5,7 @@ import OurServices from "./components/OurServices";
 import WePro from "./components/WePro";
 
 import FirstNav from "./components/nav/FirstNav";
-import Home from "./components/nav/Home";
+import Home from "./components/Home";
 
 function App() {
   return (

@@ -1,5 +1,5 @@
-import engineer from "../../images/slider-img.png";
-import SecondNav from "./SecondNav";
+import engineer from "../images/slider-img.png";
+import SecondNav from "./nav/SecondNav";
 
 function Home() {
   return (
