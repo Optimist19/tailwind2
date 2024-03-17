@@ -1,6 +1,11 @@
 import { IoIosCall } from "react-icons/io";
 import { FaLocationDot } from "react-icons/fa6";
 import { FaEnvelope } from "react-icons/fa";
+import { FaFacebookF } from "react-icons/fa";
+import { FaTwitter } from "react-icons/fa";
+import { TfiYoutube } from "react-icons/tfi";
+import { FaInstagram } from "react-icons/fa6";
+
 
 
 
@@ -54,10 +59,10 @@ function Footer() {
             <div className="flex flex-col items-center gap-4">
               <p className="text-2xl font-bold">FOLLOW US</p>
               <div className="flex items-center px-4 py-4 gap-3 bg-white">
-                <IoIosCall className="text-blue-700 cursor-pointer" />
-                <IoIosCall className="text-blue-700 cursor-pointer" />
-                <IoIosCall className="text-blue-700 cursor-pointer" />
-                <IoIosCall className="text-blue-700 cursor-pointer" />
+                <FaFacebookF className="text-blue-700 cursor-pointer hover:text-yellow-600" />
+                <FaTwitter className="text-blue-700 cursor-pointer hover:text-yellow-600" />
+                <TfiYoutube className="text-blue-700 cursor-pointer hover:text-yellow-600" />
+                <FaInstagram className="text-blue-700 cursor-pointer hover:text-yellow-600" />
               </div>
             </div>
           </div>
